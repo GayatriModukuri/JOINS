@@ -1,9 +1,9 @@
-*COMPANY* : CODTECH IT SOLUTIONS
-*NAME* : MODUKURI GAYATRI
-*INTERN ID * : CT12FZH
-*DOMAIN * : SQL
-*DURATION * : 8 WEEKS
-*MENTOR* : NEELA SANTOSH
+*COMPANY* : CODTECH IT SOLUTIONS 
+*NAME* : MODUKURI GAYATRI 
+*INTERN ID * : CT12FZH 
+*DOMAIN * : SQL 
+*DURATION * : 8 WEEKS 
+*MENTOR* : NEELA SANTOSH 
 ##DESCRIPTION## :- This Repository creates two tables: employee and department, inserts sample data, and demonstrates SQL join operations to combine data meaningfully. 
 It performs:
 1. *INNER JOIN*: Returns rows with matching DepartmentID in both tables.
